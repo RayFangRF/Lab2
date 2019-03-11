@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ray Fang/CLionProjects/untitled/Chassis.cpp
+Chassis.h
+C:/Users/Ray Fang/CLionProjects/untitled/Chassis.h
+Chassis.h
+C:/Users/Ray Fang/CLionProjects/untitled/Chassis.h
+string
+-
+
+C:/Users/Ray Fang/CLionProjects/untitled/Chassis.h
+string
+-
+
+C:/Users/Ray Fang/CLionProjects/untitled/Vehicle.cpp
+Vehicle.h
+C:/Users/Ray Fang/CLionProjects/untitled/Vehicle.h
+Wheel.h
+C:/Users/Ray Fang/CLionProjects/untitled/Wheel.h
+vector
+C:/Users/Ray Fang/CLionProjects/untitled/vector
+iostream
+-
+iomanip
+-
+
+C:/Users/Ray Fang/CLionProjects/untitled/Vehicle.h
+Chassis.h
+C:/Users/Ray Fang/CLionProjects/untitled/Chassis.h
+Wheel.h
+C:/Users/Ray Fang/CLionProjects/untitled/Wheel.h
+vector
+-
+
+C:/Users/Ray Fang/CLionProjects/untitled/Wheel.cpp
+Wheel.h
+C:/Users/Ray Fang/CLionProjects/untitled/Wheel.h
+Wheel.h
+C:/Users/Ray Fang/CLionProjects/untitled/Wheel.h
+string
+-
+
+C:/Users/Ray Fang/CLionProjects/untitled/Wheel.h
+string
+-
+
+C:/Users/Ray Fang/CLionProjects/untitled/main.cpp
+Vehicle.h
+C:/Users/Ray Fang/CLionProjects/untitled/Vehicle.h
+Wheel.h
+C:/Users/Ray Fang/CLionProjects/untitled/Wheel.h
+iostream
+-
+
